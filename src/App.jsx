@@ -12,6 +12,7 @@ const App = () => {
   if(loading)
   {
     return <Loading/>
+    
   }
 
   return (
