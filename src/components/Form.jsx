@@ -26,7 +26,7 @@ const Form = () => {
 
         <form onSubmit={handleSubmit} className="flex flex-col gap-y-3" >
 
-          <h1 className='text-4xl sm:text-5xl font-bold mb-8' >Setup Quiz</h1>
+          <h1 className='text-4xl sm:text-5xl font-bold mb-8' >Quizo Setup</h1>
           <div className='mb-2'>
             <label htmlFor="amount" className="block font-light text-base capitalize">Enter the no of questions</label>
             <br />
